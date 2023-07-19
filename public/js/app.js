@@ -1,4 +1,4 @@
-console.log ('Cleint side java scrip side is loaded.')
+
 
 
 
